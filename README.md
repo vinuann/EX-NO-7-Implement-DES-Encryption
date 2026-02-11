@@ -1,6 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
-# Name:Janathul Firdhous A
-# RegNo:212224040129
+# Name:Vinuthaa NN
+# RegNo:212224040362
 
 ## Aim:
 
